@@ -41,25 +41,25 @@ Update the database connection details in `src/main/resources/application.proper
 
 Build and run the project using Apache NetBeans.
 
-## Usage
+# Usage
 
-### Login
+## Login
 
 Use the provided credentials to log in.
 
-### Dashboard
+## Dashboard
 
 Access the dashboard to navigate through different functionalities.
 
-### Manage Books
+## Manage Books
 
 Add, edit, or remove books from the library.
 
-### Manage Users
+## Manage Users
 
 Create, update, or delete user accounts.
 
-### Checkout/Return
+## Checkout/Return
 
 Track book borrowings and returns.
 
