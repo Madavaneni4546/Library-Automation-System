@@ -23,4 +23,52 @@ The Library Automation System is a Java-based project developed using Apache Net
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Madavaneni4546/Library-Automation-System.git
+# Database Setup
+
+1. Create a MySQL database named `library_db`.
+2. Import the SQL script from `database/library_db.sql` to set up the database schema.
+
+# Configure Database Connection
+
+Update the database connection details in `src/main/resources/application.properties`.
+
+# Open in Apache NetBeans
+
+1. Open Apache NetBeans and select "Open Project."
+2. Navigate to the cloned project directory and open it.
+
+# Build and Run
+
+Build and run the project using Apache NetBeans.
+
+## Usage
+
+### Login
+
+Use the provided credentials to log in.
+
+### Dashboard
+
+Access the dashboard to navigate through different functionalities.
+
+### Manage Books
+
+Add, edit, or remove books from the library.
+
+### Manage Users
+
+Create, update, or delete user accounts.
+
+### Checkout/Return
+
+Track book borrowings and returns.
+
+# Contributing
+
+If you would like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
 
