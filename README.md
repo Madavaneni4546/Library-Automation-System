@@ -1,4 +1,4 @@
-Library Automation System (Java & MySQL)
+#Library Automation System (Java & MySQL)
 Overview
 The Library Automation System is a Java-based project developed using Apache NetBeans, providing efficient management of library operations. The project utilizes the MySQL database for data storage and retrieval.
 
